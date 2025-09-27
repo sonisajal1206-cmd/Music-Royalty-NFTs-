@@ -24,5 +24,5 @@ Our vision is to empower music creators by leveraging blockchain technology to a
 
 Feel free to expand or customize the README further if you'd like! Want me to add setup instructions or usage examples next?
 
-![Uploading Screenshot 2025-09-27 142238.png…]()
+
 
